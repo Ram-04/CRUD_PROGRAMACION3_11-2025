@@ -1,0 +1,164 @@
+CRITICAL - 2025-11-05 22:48:06 --> CodeIgniter\Database\Exceptions\DatabaseException: Updates are not allowed unless they contain a "where" or "like" clause.
+[Method: POST, Route: actualizar]
+in SYSTEMPATH\Model.php on line 456.
+ 1 SYSTEMPATH\BaseModel.php(1025): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(860): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Controllers\Nawebona.php(73): CodeIgniter\Model->update(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->actualizar()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-05 22:48:26 --> CodeIgniter\Database\Exceptions\DatabaseException: Updates are not allowed unless they contain a "where" or "like" clause.
+[Method: POST, Route: actualizar]
+in SYSTEMPATH\Model.php on line 456.
+ 1 SYSTEMPATH\BaseModel.php(1025): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(860): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Controllers\Nawebona.php(73): CodeIgniter\Model->update(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->actualizar()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-05 23:00:09 --> ErrorException: Undefined array key "imagen"
+[Method: GET, Route: editar/17]
+in APPPATH\Views\productos\editar.php on line 24.
+ 1 APPPATH\Views\productos\editar.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "imagen"', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\editar.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\editar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/editar', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(63): view('productos/editar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->editar('17')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-05 23:00:11 --> ErrorException: Undefined array key "imagen"
+[Method: GET, Route: editar/17]
+in APPPATH\Views\productos\editar.php on line 24.
+ 1 APPPATH\Views\productos\editar.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "imagen"', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\editar.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\editar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/editar', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(63): view('productos/editar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->editar('17')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-05 23:00:12 --> ErrorException: Undefined array key "imagen"
+[Method: GET, Route: editar/17]
+in APPPATH\Views\productos\editar.php on line 24.
+ 1 APPPATH\Views\productos\editar.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "imagen"', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\editar.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\editar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/editar', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(63): view('productos/editar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->editar('17')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-05 23:00:13 --> ErrorException: Undefined array key "imagen"
+[Method: GET, Route: editar/17]
+in APPPATH\Views\productos\editar.php on line 24.
+ 1 APPPATH\Views\productos\editar.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "imagen"', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\editar.php', 24)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\editar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/editar', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(63): view('productos/editar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->editar('17')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-05 23:08:37 --> ErrorException: Undefined variable $nojoda
+[Method: GET, Route: editar/17]
+in APPPATH\Views\productos\editar.php on line 25.
+ 1 APPPATH\Views\productos\editar.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nojoda', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\editar.php', 25)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\editar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/editar', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(63): view('productos/editar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->editar('17')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-05 23:08:55 --> ErrorException: Undefined variable $nojoda
+[Method: GET, Route: editar/13]
+in APPPATH\Views\productos\editar.php on line 25.
+ 1 APPPATH\Views\productos\editar.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nojoda', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\editar.php', 25)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\editar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/editar', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(63): view('productos/editar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->editar('13')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-05 23:36:13 --> ErrorException: Undefined variable $item
+[Method: GET, Route: listar]
+in APPPATH\Views\productos\listar.php on line 21.
+ 1 APPPATH\Views\productos\listar.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\listar.php', 21)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\listar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/listar', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(14): view('productos/listar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-05 23:38:40 --> ErrorException: Undefined array key "imagen"
+[Method: GET, Route: listar]
+in APPPATH\Views\productos\listar.php on line 21.
+ 1 APPPATH\Views\productos\listar.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "imagen"', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\listar.php', 21)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\listar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/listar', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(14): view('productos/listar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-05 23:43:29 --> ErrorException: Undefined variable $libro
+[Method: GET, Route: crear]
+in APPPATH\Views\productos\crear.php on line 10.
+ 1 APPPATH\Views\productos\crear.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libro', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php', 10)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/crear', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(20): view('productos/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->crear()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-05 23:44:20 --> ErrorException: Undefined variable $libro
+[Method: GET, Route: crear]
+in APPPATH\Views\productos\crear.php on line 10.
+ 1 APPPATH\Views\productos\crear.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libro', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php', 10)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/crear', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(20): view('productos/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->crear()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

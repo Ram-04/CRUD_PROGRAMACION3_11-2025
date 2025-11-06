@@ -1,0 +1,55 @@
+CRITICAL - 2025-11-03 01:19:47 --> CodeIgniter\HTTP\Exceptions\HTTPException: The original file is not a valid file.
+[Method: POST, Route: guardar]
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 142.
+ 1 SYSTEMPATH\HTTP\Files\UploadedFile.php(142): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH\Controllers\Nawebona.php(31): CodeIgniter\HTTP\Files\UploadedFile->move('../public/uploads/', '1762132787_6fa98e4efd5b16e28685')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->guardar()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-03 01:23:21 --> CodeIgniter\HTTP\Exceptions\HTTPException: The original file is not a valid file.
+[Method: POST, Route: guardar]
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 142.
+ 1 SYSTEMPATH\HTTP\Files\UploadedFile.php(142): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH\Controllers\Nawebona.php(31): CodeIgniter\HTTP\Files\UploadedFile->move('../public/uploads/', '1762133001_2ab574d6b7c049892d73')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->guardar()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-03 01:23:25 --> CodeIgniter\HTTP\Exceptions\HTTPException: The original file is not a valid file.
+[Method: POST, Route: guardar]
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 142.
+ 1 SYSTEMPATH\HTTP\Files\UploadedFile.php(142): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH\Controllers\Nawebona.php(31): CodeIgniter\HTTP\Files\UploadedFile->move('../public/uploads/', '1762133005_9d2dbaf515281fcaf17b')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->guardar()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-03 01:25:08 --> CodeIgniter\HTTP\Exceptions\HTTPException: The original file is not a valid file.
+[Method: POST, Route: guardar]
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 142.
+ 1 SYSTEMPATH\HTTP\Files\UploadedFile.php(142): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH\Controllers\Nawebona.php(31): CodeIgniter\HTTP\Files\UploadedFile->move('../public/uploads/', '1762133108_510c5e68ab0575fe90f0')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->guardar()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-03 01:27:52 --> CodeIgniter\HTTP\Exceptions\HTTPException: The original file is not a valid file.
+[Method: POST, Route: guardar]
+in SYSTEMPATH\HTTP\Files\UploadedFile.php on line 142.
+ 1 SYSTEMPATH\HTTP\Files\UploadedFile.php(142): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH\Controllers\Nawebona.php(31): CodeIgniter\HTTP\Files\UploadedFile->move('../public/uploads/', '1762133272_37e7be11b8a71b27f516')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->guardar()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

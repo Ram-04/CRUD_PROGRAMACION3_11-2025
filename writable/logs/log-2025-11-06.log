@@ -1,0 +1,325 @@
+CRITICAL - 2025-11-06 00:01:35 --> ErrorException: Undefined variable $libro
+[Method: GET, Route: crear]
+in APPPATH\Views\productos\crear.php on line 10.
+ 1 APPPATH\Views\productos\crear.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libro', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php', 10)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/crear', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(20): view('productos/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->crear()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-06 00:01:47 --> ErrorException: Undefined variable $libro
+[Method: GET, Route: crear]
+in APPPATH\Views\productos\crear.php on line 10.
+ 1 APPPATH\Views\productos\crear.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libro', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php', 10)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/crear', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(20): view('productos/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->crear()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-06 00:01:48 --> ErrorException: Undefined variable $libro
+[Method: GET, Route: crear]
+in APPPATH\Views\productos\crear.php on line 10.
+ 1 APPPATH\Views\productos\crear.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libro', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php', 10)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/crear', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(20): view('productos/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->crear()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-06 00:01:48 --> ErrorException: Undefined variable $libro
+[Method: GET, Route: crear]
+in APPPATH\Views\productos\crear.php on line 10.
+ 1 APPPATH\Views\productos\crear.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libro', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php', 10)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/crear', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(20): view('productos/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->crear()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-06 00:01:48 --> ErrorException: Undefined variable $libro
+[Method: GET, Route: crear]
+in APPPATH\Views\productos\crear.php on line 10.
+ 1 APPPATH\Views\productos\crear.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libro', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php', 10)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/crear', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(20): view('productos/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->crear()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-06 00:01:48 --> ErrorException: Undefined variable $libro
+[Method: GET, Route: crear]
+in APPPATH\Views\productos\crear.php on line 10.
+ 1 APPPATH\Views\productos\crear.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libro', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php', 10)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/crear', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(20): view('productos/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->crear()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-06 00:01:49 --> ErrorException: Undefined variable $libro
+[Method: GET, Route: crear]
+in APPPATH\Views\productos\crear.php on line 10.
+ 1 APPPATH\Views\productos\crear.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libro', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php', 10)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/crear', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(20): view('productos/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->crear()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-06 00:02:01 --> ErrorException: Undefined variable $libro
+[Method: GET, Route: crear]
+in APPPATH\Views\productos\crear.php on line 10.
+ 1 APPPATH\Views\productos\crear.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libro', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php', 10)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/crear', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(20): view('productos/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->crear()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-06 00:02:03 --> ErrorException: Undefined variable $libro
+[Method: GET, Route: crear]
+in APPPATH\Views\productos\crear.php on line 10.
+ 1 APPPATH\Views\productos\crear.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libro', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php', 10)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/crear', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(20): view('productos/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->crear()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-06 00:02:05 --> ErrorException: Undefined variable $libro
+[Method: GET, Route: crear]
+in APPPATH\Views\productos\crear.php on line 10.
+ 1 APPPATH\Views\productos\crear.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libro', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php', 10)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/crear', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(20): view('productos/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->crear()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-06 00:02:20 --> ErrorException: Undefined variable $libro
+[Method: GET, Route: crear]
+in APPPATH\Views\productos\crear.php on line 10.
+ 1 APPPATH\Views\productos\crear.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libro', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php', 10)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/crear', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(20): view('productos/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->crear()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-06 00:02:21 --> ErrorException: Undefined variable $libro
+[Method: GET, Route: crear]
+in APPPATH\Views\productos\crear.php on line 10.
+ 1 APPPATH\Views\productos\crear.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libro', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php', 10)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\crear.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/crear', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(20): view('productos/crear', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->crear()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-06 00:46:13 --> ErrorException: Undefined array key "img"
+[Method: GET, Route: listar]
+in APPPATH\Views\productos\listar.php on line 21.
+ 1 APPPATH\Views\productos\listar.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "img"', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\listar.php', 21)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\listar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/listar', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(14): view('productos/listar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-06 00:46:21 --> ErrorException: Undefined array key "img"
+[Method: GET, Route: listar]
+in APPPATH\Views\productos\listar.php on line 21.
+ 1 APPPATH\Views\productos\listar.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "img"', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\listar.php', 21)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\listar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/listar', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(14): view('productos/listar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-06 00:46:23 --> ErrorException: Undefined array key "img"
+[Method: GET, Route: listar]
+in APPPATH\Views\productos\listar.php on line 21.
+ 1 APPPATH\Views\productos\listar.php(21): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "img"', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\listar.php', 21)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\listar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/listar', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(14): view('productos/listar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-06 00:46:54 --> ErrorException: Undefined array key "img"
+[Method: GET, Route: listar]
+in APPPATH\Views\productos\listar.php on line 23.
+ 1 APPPATH\Views\productos\listar.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "img"', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\listar.php', 23)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\listar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/listar', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(14): view('productos/listar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-06 00:52:26 --> ErrorException: unlink(../public/uploads/): Is a directory
+[Method: GET, Route: borrar/12]
+in APPPATH\Controllers\Nawebona.php on line 49.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../public/uploads/): Is a directory', 'C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Nawebona.php', 49)
+ 2 APPPATH\Controllers\Nawebona.php(49): unlink('../public/uploads/')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->borrar('12')
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-06 00:56:16 --> ErrorException: unlink(../public/uploads/): Is a directory
+[Method: GET, Route: borrar/12]
+in APPPATH\Controllers\Nawebona.php on line 49.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../public/uploads/): Is a directory', 'C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Nawebona.php', 49)
+ 2 APPPATH\Controllers\Nawebona.php(49): unlink('../public/uploads/')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->borrar('12')
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-06 00:58:57 --> ErrorException: unlink(../public/uploads/): Is a directory
+[Method: GET, Route: borrar/12]
+in APPPATH\Controllers\Nawebona.php on line 49.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(../public/uploads/): Is a directory', 'C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Nawebona.php', 49)
+ 2 APPPATH\Controllers\Nawebona.php(49): unlink('../public/uploads/')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->borrar('12')
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-06 01:43:02 --> ParseError: syntax error, unexpected token "return", expecting "function" or "const"
+[Method: GET, Route: listar]
+in APPPATH\Controllers\Nawebona.php on line 62.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\biblioteca\\app\\Controllers\\Nawebona.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Nawebona')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Nawebona')
+ 4 SYSTEMPATH\CodeIgniter.php(885): class_exists('\\App\\Controllers\\Nawebona', true)
+ 5 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-06 12:35:04 --> ErrorException: Undefined variable $item
+[Method: GET, Route: listar]
+in APPPATH\Views\productos\listar.php on line 39.
+ 1 APPPATH\Views\productos\listar.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $item', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\listar.php', 39)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\listar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/listar', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(14): view('productos/listar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-06 13:21:06 --> ErrorException: Undefined variable $nojoda
+[Method: GET, Route: editar/19]
+in APPPATH\Views\productos\editar.php on line 25.
+ 1 APPPATH\Views\productos\editar.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nojoda', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\editar.php', 25)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\editar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/editar', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(86): view('productos/editar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->editar('19')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-06 13:28:20 --> ErrorException: Undefined variable $libro
+[Method: GET, Route: listar]
+in APPPATH\Views\productos\listar.php on line 45.
+ 1 APPPATH\Views\productos\listar.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libro', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\listar.php', 45)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\listar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/listar', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(14): view('productos/listar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-06 13:28:49 --> ErrorException: Undefined variable $libro
+[Method: GET, Route: listar]
+in APPPATH\Views\productos\listar.php on line 45.
+ 1 APPPATH\Views\productos\listar.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $libro', 'C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\listar.php', 45)
+ 2 SYSTEMPATH\View\View.php(226): include('C:\\xampp\\htdocs\\biblioteca\\app\\Views\\productos\\listar.php')
+ 3 SYSTEMPATH\View\View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1167): CodeIgniter\View\View->render('productos/listar', [], true)
+ 5 APPPATH\Controllers\Nawebona.php(14): view('productos/listar', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Nawebona->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Nawebona))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
