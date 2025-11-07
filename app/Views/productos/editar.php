@@ -8,6 +8,7 @@
 <input class="form-control" type="hidden" name="id" value="<?=$libro['id']?>">
 <input class="form-control" type="hidden" name="imagen" value="<?=$libro['imagen']?>">
         <div class="form-group">
+            <!-- aqui se muestran los datos actuales del producto para editar -->
             <label for="nombre">Nombre</label>
             <input id="nombre" value="<?=$libro['nombre']?>" class="form-control" type="text" name="nombre">
         </div>
@@ -24,11 +25,13 @@
             <label for="imagen">Imagen</label>
             <br>
             <img class="img-thumb"  src="<?=base_url()?>../public/uploads/<?=$libro['imagen'];?>" width="100" height="100">
+            <!-- NO FUNCIONA Y NO SE POR QUE -->
            <!-- <img class="img-thumbnail" value="<?=$libro['imagen']?>" src="<?=base_url()?>/uploads/"<?$libro['imagen'];?>-->
             </br>
             <input id="imagen" class="form-control-file" type="file" name="imagen">
         </div>
              <br>
+             <!-- boton para guardar los cambios -->
         <button class="btn btn-success" type="submit">Guardar</button>
     </form>
             </p>

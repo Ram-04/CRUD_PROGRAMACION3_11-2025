@@ -1,9 +1,8 @@
 <?= $cabecera ?>
-    formulario de crear
 
     <div class="card">
         <div class="card-body">
-            <h5 class="card-title">Ingresar datos de un producto</h5>
+            <h5 class="card-title">Ingresar datos de un producto nuevo</h5>
             <p class="card-text">
 
 <form method="post" action="<?=site_url('/guardar')?>" enctype="multipart/form-data">

@@ -5,6 +5,7 @@ use CodeIgniter\Router\RouteCollection;
 /**
  * @var RouteCollection $routes
  */
+// Load the system's routing file first, so that the app and ENVIRONMENT
 $routes->get('/', 'Home::index');
 $routes->get('produclist', 'Nawebona::index');
 $routes->get('crear', 'Nawebona::crear');
