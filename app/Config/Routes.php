@@ -5,8 +5,9 @@ use CodeIgniter\Router\RouteCollection;
 /**
  * @var RouteCollection $routes
  */
-// Load the system's routing file first, so that the app and ENVIRONMENT
+// estas son las rutas para el sistema de gestion de productos
 $routes->get('/', 'Home::index');
+// rutas para el controlador 'Nawebona.php'
 $routes->get('produclist', 'Nawebona::index');
 $routes->get('crear', 'Nawebona::crear');
 $routes->post('guardar', 'Nawebona::guardar');
